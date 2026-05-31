@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/LedgerFlow.API/LedgerFlow.API.csproj" />
+  <Project Path="src/LedgerFlow.Application/LedgerFlow.Application.csproj" Id="41d5c360-d3e2-4848-9ac7-fbf06969e65b" />
+  <Project Path="src/LedgerFlow.Domain/LedgerFlow.Domain.csproj" Id="1df575ad-6fd3-404d-bcc4-d6902af2092c" />
+  <Project Path="src/LedgerFlow.Infrastructure/LedgerFlow.Infrastructure.csproj" />
+  <Project Path="tests/LedgerFlow.UnitTests/LedgerFlow.UnitTests.csproj" Id="39744430-4d8d-4f7c-8c6a-f238fe86ed7c" />
+</Solution>
