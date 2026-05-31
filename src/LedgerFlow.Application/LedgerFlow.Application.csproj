@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LedgerFlow.Domain\LedgerFlow.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
