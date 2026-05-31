@@ -15,6 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\LedgerFlow.Application\LedgerFlow.Application.csproj" />
+    <ProjectReference Include="..\..\src\LedgerFlow.Domain\LedgerFlow.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
